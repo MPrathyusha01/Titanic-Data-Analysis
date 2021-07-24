@@ -1,23 +1,11 @@
 # Titanic-Data-Analysis
-# SHAPEAI PYTHON AND DATA ANALYSIS
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI</b>.
-The instructor during the session was Ms. Nandini Jalan (Ex-Intern at Google). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-I got to have hands on experience on:
-<li>Python
-<li>Numpy
-<li>Matplotlib
-<br>During these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
-or follow SHAPEAI on:
-<li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
-<li><a
-href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+* In this project, I analysis the data taken from Kaggle to find the details behind the loss of lives.
+* In this data, there are 891 rows and 12 column.
+* I analysis the project based on two types of Variables.
+  1. Categorical Variable
+  2. Numerical Variable
+## After the deep analysis, I concluded the following points:
+* People who are in 1st class survived more than other 2nd and 3rd class passengers.
+* Passengers whos age is less than 30 are survied most.
+* Passengers who are alone are *NOT* survived comapred to passerger with family.
+* Passengers who are from Cherbourg port are more survived than other port.
